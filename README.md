@@ -1,4 +1,10 @@
+N.Thanush
+
+bank transaction record system
+
 Abstract
+
+
 This project implements a simple Bank Transaction Record System using the C programming language. It allows users to create new accounts, deposit and withdraw money, check balances, and display all account records. Data is stored persistently in a file (bankdata.txt) using binary file handling. The system provides a menu-driven interface for easy navigation and ensures basic transaction management for multiple accounts.
 
 Technical Requirements
